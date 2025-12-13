@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node": "^24.12.0",
+    "puppeteer": "^24.33.0"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
